@@ -1,0 +1,58 @@
+body{
+    background-image: url(img/fundo5.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+}
+p{
+    text-align:center;
+    font-size: 36px;
+    font-family: 'Italianno', cursive;
+    color:white;
+    line-height: 2px;
+    text-shadow: 4px 4px 4px;
+}
+.tabelas3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 400px;
+    height: 800px; 
+    
+    
+}  
+.tabela3_a{
+    border: 1px solid #000;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: black;
+    width: 220px;
+    height: 60px;
+    margin: 30px;  
+}
+.tabela3_b{
+    border: 1px solid #000;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: red;
+    width: 220px;
+    height: 60px;
+    margin: 30px;  
+}
+.botao{
+    
+    font-family: 'Italianno', cursive;
+    font-size: 35px;
+    display: inline-block;
+    padding: 3px 4px;
+    margin: 7px ;
+    color: white;
+    border-radius: 3px;
+    height: 30px;
+    text-decoration: none;
+    text-shadow: 4px 4px 4px;
+    background-color: red;
+  }
